@@ -5,6 +5,7 @@ Debido a que los datos originales fueron obtenidos de la Agencia Estatal de Mete
   
 Contenido del repositorio:
 - AdaptaCyL_climodiagramas.html: archivo que permite visualizar el código de R utilizado en el navegador web
+- AdaptaCyL_climodiagramas.pdf: archivo que permite visualizar el código de R utilizado en formato pdf
 - climodiagramas: gráficos de climodiagramas del periodo previo y reciente (ejemplo con la estación de Ponferrada)
 - datos: datos originales de temperatura y precipitación del AEMET, y datos de las estaciones meteorológicas utilizadas (ejemplo con la estación de Ponferrada)
 - graficos_temp-precip: gráficos de temperatura y precipitación (ejemplo con la estación de Ponferrada)

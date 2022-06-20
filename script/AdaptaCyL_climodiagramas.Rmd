@@ -3,7 +3,7 @@ title: "Adaptación al cambio climático en CyL - anexo 7.1_Climodiagramas"
 author: "Irene Ruano Benito, Aitor Vázquez Veloso"
 date: "16/06/2022"
 output:
-  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
