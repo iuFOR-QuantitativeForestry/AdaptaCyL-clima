@@ -1,5 +1,10 @@
 # Directrices para la adaptación de la gestión del patrimonio natural y la política forestal al cambio climático en Castilla y León
 
+
+---
+
+
+
 En este repositorio público se aloja el código de R utilizado para la elaboración de gráficos climáticos del apartado 7.1 del proyecto.  
 Debido a que los datos originales fueron obtenidos de la Agencia Estatal de Meteorología (AEMET), no consideramos oportuno publicarlos nosotros mismos, por lo que se proporcionan unos datos de ejemplo que permiten verificar y entender el funcionamiento del código, pudiendo ser replicado.  
   
@@ -12,4 +17,8 @@ Contenido del repositorio:
 - script: código R original para la elaboración de gráficos
   
 Sobre nosotros: [iuFOR](http://sostenible.palencia.uva.es/)  
-![alt text](http://sostenible.palencia.uva.es/sites/default/files/iufor_iugfs-completo.png)
+<center>
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
+</center>
+
