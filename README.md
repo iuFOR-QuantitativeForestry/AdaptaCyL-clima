@@ -3,7 +3,7 @@
 
 ---
 
-
+:book: Puedes descargar [aquí](https://iufor.uva.es/wp-content/uploads/2023/05/PROYECTO-ADAPTA-CLIMA-PDF-DEFINITVO-DISFUSION-1.pdf) el libro en su versión final.
 
 En este repositorio público se aloja el código de R utilizado para la elaboración de gráficos climáticos del apartado 7.1 del proyecto.  
 Debido a que los datos originales fueron obtenidos de la Agencia Estatal de Meteorología (AEMET), no consideramos oportuno publicarlos nosotros mismos, por lo que se proporcionan unos datos de ejemplo que permiten verificar y entender el funcionamiento del código, pudiendo ser replicado.  
