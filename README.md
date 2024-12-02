@@ -16,7 +16,7 @@ Contenido del repositorio:
 - graficos_temp-precip: gráficos de temperatura y precipitación (ejemplo con la estación de Ponferrada)
 - script: código R original para la elaboración de gráficos
   
-Sobre nosotros: [iuFOR](http://sostenible.palencia.uva.es/)  
+Sobre nosotros: [iuFOR](https://iufor.uva.es/)  
 <center>
 <img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
 <img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
